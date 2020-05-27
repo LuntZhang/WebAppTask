@@ -1,0 +1,12 @@
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Business\bin\Debug\netcoreapp3.1\WebApplicationTask.Entity.dll
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Business\bin\Debug\netcoreapp3.1\WebApplicationTask.Entity.pdb
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Business\obj\Debug\netcoreapp3.1\WebApplicationTask.Business.csprojAssemblyReference.cache
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Business\obj\Debug\netcoreapp3.1\WebApplicationTask.Business.AssemblyInfoInputs.cache
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Business\obj\Debug\netcoreapp3.1\WebApplicationTask.Business.AssemblyInfo.cs
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Business\obj\Debug\netcoreapp3.1\WebApplicationTask.Business.csproj.CopyComplete
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Business\bin\Debug\netcoreapp3.1\WebApplicationTask.Business.deps.json
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Business\bin\Debug\netcoreapp3.1\WebApplicationTask.Business.dll
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Business\bin\Debug\netcoreapp3.1\WebApplicationTask.Business.pdb
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Business\obj\Debug\netcoreapp3.1\WebApplicationTask.Business.csproj.CoreCompileInputs.cache
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Business\obj\Debug\netcoreapp3.1\WebApplicationTask.Business.dll
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Business\obj\Debug\netcoreapp3.1\WebApplicationTask.Business.pdb

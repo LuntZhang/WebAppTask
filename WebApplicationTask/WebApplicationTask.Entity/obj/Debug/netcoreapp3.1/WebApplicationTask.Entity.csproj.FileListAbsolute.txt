@@ -1,0 +1,12 @@
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Entity\bin\Debug\netcoreapp3.1\WebApplicationTask.Entity.deps.json
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Entity\bin\Debug\netcoreapp3.1\WebApplicationTask.Entity.dll
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Entity\obj\Debug\netcoreapp3.1\WebApplicationTask.Entity.csprojAssemblyReference.cache
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Entity\obj\Debug\netcoreapp3.1\WebApplicationTask.Entity.AssemblyInfoInputs.cache
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Entity\obj\Debug\netcoreapp3.1\WebApplicationTask.Entity.AssemblyInfo.cs
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Entity\bin\Debug\netcoreapp3.1\WebApplicationTask.Entity.runtimeconfig.json
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Entity\bin\Debug\netcoreapp3.1\WebApplicationTask.Entity.runtimeconfig.dev.json
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Entity\obj\Debug\netcoreapp3.1\WebApplicationTask.Entity.genruntimeconfig.cache
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Entity\bin\Debug\netcoreapp3.1\WebApplicationTask.Entity.pdb
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Entity\obj\Debug\netcoreapp3.1\WebApplicationTask.Entity.csproj.CoreCompileInputs.cache
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Entity\obj\Debug\netcoreapp3.1\WebApplicationTask.Entity.dll
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Entity\obj\Debug\netcoreapp3.1\WebApplicationTask.Entity.pdb

@@ -1,0 +1,9 @@
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Util\bin\Debug\netcoreapp3.1\WebApplicationTask.Util.deps.json
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Util\bin\Debug\netcoreapp3.1\WebApplicationTask.Util.dll
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Util\bin\Debug\netcoreapp3.1\WebApplicationTask.Util.pdb
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Util\obj\Debug\netcoreapp3.1\WebApplicationTask.Util.csprojAssemblyReference.cache
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Util\obj\Debug\netcoreapp3.1\WebApplicationTask.Util.csproj.CoreCompileInputs.cache
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Util\obj\Debug\netcoreapp3.1\WebApplicationTask.Util.AssemblyInfoInputs.cache
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Util\obj\Debug\netcoreapp3.1\WebApplicationTask.Util.AssemblyInfo.cs
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Util\obj\Debug\netcoreapp3.1\WebApplicationTask.Util.dll
+G:\WorkSpace\Project\ProjectWebAppTask\WebApplicationTask\WebApplicationTask.Util\obj\Debug\netcoreapp3.1\WebApplicationTask.Util.pdb

@@ -2,15 +2,20 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoMapper;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using WebApplicationTask.Business.Business;
+using WebApplicationTask.Business.IBusiness;
+using WebApplicationTask.Entity;
 
 namespace WebApplicationTask.Api
 {
@@ -38,6 +43,19 @@ namespace WebApplicationTask.Api
                 });
             });
             #endregion
+
+   
+            // 配置连接数据库
+            services.AddDbContext<BaseDbContext>(optionsBuilder => {
+                optionsBuilder.UseSqlServer(Configuration.GetConnectionString("BaseDb"));
+                Console.WriteLine(Configuration.GetConnectionString("BaseDb"));
+            });
+
+            // 添加仓储服务
+            services.AddScoped<IRepositoryWrapper, RepositoryWrapper>();
+
+            // 添加到依赖注入容器
+            services.AddAutoMapper(typeof(Startup));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
